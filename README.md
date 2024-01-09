@@ -9,25 +9,31 @@ MAZAPA CTF is an immersive cybersecurity competition designed to challenge parti
 
 ## Categories 🛠️
 
-### OSINT (Open Source Intelligence)
-- Uncover hidden information through publicly available data sources.
-- Analyze, research, and solve challenges based on real-world scenarios.
+### Web Pentest
+- Identify vulnerabilities in web applications, assess security flaws, and exploit weaknesses.
+- Test your skills in various aspects of web security.
+- [Web Pentest Roadmap](https://raw.githubusercontent.com/apa-iutcert/MAZAPA/36c92add9d2ae838ea0d0b3d6ffa97af68417ef4/roadmaps/web_pentest.svg): Explore the roadmap to get started.
 
 ### Reverse Engineering
 - Dive into the code, deconstruct binaries, and understand the functionality.
 - Apply reverse engineering techniques to solve complex problems.
+- [Reverse Engineering Roadmap](https://raw.githubusercontent.com/apa-iutcert/MAZAPA/36c92add9d2ae838ea0d0b3d6ffa97af68417ef4/roadmaps/reverse_engineering.svg): Explore the roadmap to get started.
 
 ### Forensics
 - Investigate digital artifacts, analyze file structures, and recover hidden data.
 - Piece together clues to solve forensic challenges.
+- [Forensics Roadmap](https://raw.githubusercontent.com/apa-iutcert/MAZAPA/36c92add9d2ae838ea0d0b3d6ffa97af68417ef4/roadmaps/forensics.svg): Explore the roadmap to get started.
 
 ### Cryptography
 - Decode encrypted messages, crack ciphers, and decrypt information.
 - Use cryptographic methods and algorithms to break codes.
+- [Cryptography Roadmap](https://raw.githubusercontent.com/apa-iutcert/MAZAPA/36c92add9d2ae838ea0d0b3d6ffa97af68417ef4/roadmaps/cryptography.svg): Explore the roadmap to get started.
 
-### Exploit
-- Identify vulnerabilities, exploit weaknesses, and gain control over systems.
-- Demonstrate your skills in penetration testing and exploit development.
+### PWN
+- Gain control over systems through exploiting vulnerabilities in software.
+- Showcase your skills in exploiting and taking control of programs.
+- [PWN Roadmap](https://raw.githubusercontent.com/apa-iutcert/MAZAPA/36c92add9d2ae838ea0d0b3d6ffa97af68417ef4/roadmaps/PWN.svg): Explore the roadmap to get started.
+
 
 ## Getting Started 🚪
 
@@ -36,7 +42,7 @@ To participate in the MAZAPA CTF contest:
 1. **Registration:** Visit our website [https://ctf.nsec.ir] to register starting from January 7, 2024.
 2. **Save the Date:** The CTF officially starts on February 15, 2024. Get ready!
 3. **Clone this Repository:** Clone or fork this repository to access roadmaps and instructions.
-4. **Join the Community:** Engage with organizers on our Discord channel [https://discord.gg/KTtRrNYw] for updates and discussions.
+4. **Join the Community:** Engage with organizers on our [Discord channel](https://discord.gg/KTtRrNYw) for updates and discussions.
 
 ## Rules and Guidelines 📜
 
