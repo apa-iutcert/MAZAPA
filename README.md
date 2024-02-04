@@ -4,8 +4,8 @@ MAZAPA CTF is an immersive cybersecurity competition designed to challenge parti
 
 ## Important Dates 🗓️
 
-- CTF Start Date: January 7, 2024
-- Registration Opens: February 15, 2024
+- Registration Opens: January 7, 2024
+- CTF Start Date: February 15, 2024
 
 ## Categories 🛠️
 
