@@ -5,7 +5,7 @@ MAZAPA CTF is an immersive cybersecurity competition designed to challenge parti
 ## Important Dates 🗓️
 
 - Registration Opens: January 7, 2024
-- CTF Start Date: February 15, 2024
+- CTF Start Date: March 7, 2024
 
 ## Categories 🛠️
 
@@ -40,9 +40,9 @@ MAZAPA CTF is an immersive cybersecurity competition designed to challenge parti
 To participate in the MAZAPA CTF contest:
 
 1. **Registration:** Visit our website [https://ctf.nsec.ir] to register starting from January 7, 2024.
-2. **Save the Date:** The CTF officially starts on February 15, 2024. Get ready!
+2. **Save the Date:** The CTF officially starts on March 7, 2024. Get ready!
 3. **Clone this Repository:** Clone or fork this repository to access roadmaps and instructions.
-4. **Join the Community:** Engage with organizers on our [Discord channel](https://discord.gg/KTtRrNYw) for updates and discussions.
+4. **Join the Community:** Engage with organizers on our [Discord channel](https://discord.com/invite/xGf7mKtyE9) for updates and discussions.
 
 ## Rules and Guidelines 📜
 
